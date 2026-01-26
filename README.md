@@ -11,6 +11,7 @@ Setup
 For starters, you will need access to a computer with its administration rights. We will be installing different applications and programs for easy access, so you need to have permission for your device to continue.
 
 1. Preparation
+
 We will use Anaconda to set up an environment that allows us to install different versions of Python and its libraries without interfering with other projects you might have going on. If you do not want to do this, skip this step.
 Since there are great tutorials out there on YouTube that I have used myself, I will not explain this in detail. Just follow the steps and install the applications.
 https://www.youtube.com/watch?v=4DQGBQMvwZo
