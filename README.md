@@ -45,11 +45,11 @@ This will open a new browser window and ask you to log in.
 You will show you a web page with an alphanumeric string that is your token.
 Copy your token, and save it to your computer using the following:
 
-  client.auth.save_token(token=YOUR_TOKEN)
+  	client.auth.save_token(token=YOUR_TOKEN)
   
 To check if your setup works, run the following:
 
-  client = CAVEclient('minnie65_public')
+  	client = CAVEclient('minnie65_public')
   
 If you don’t get any errors, your setup has worked and you can move on!
 
