@@ -38,8 +38,8 @@ Open GitBash within the environment and enter
 Then open jupyter lab and create a notebook and enter the following
 
 	from caveclient import CAVEclient
-  client = CAVEclient()
-  client.auth.setup_token(make_new=True)
+ 	client = CAVEclient()
+ 	client.auth.setup_token(make_new=True)
   
 This will open a new browser window and ask you to log in.
 You will show you a web page with an alphanumeric string that is your token.
