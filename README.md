@@ -56,3 +56,8 @@ If you don’t get any errors, your setup has worked and you can move on!
 
 You are now ready to work with MICrONS!
 Most tools are available through https://tutorial.microns-explorer.org/ which offers exact documentation of how to access the data and extract the information that you need.
+
+Within thid repository, you will find differnt jupyter notebooks that I have used for my semester paper "Synaptic Connectivity Analysis of the Mouse Visual Cortex based on MICrONS". I have added annotations to the notebooks, hoping that it will improve usability. Some Python knowledge is still of advantage to understand and adapt the code.
+
+Regards,
+Johannes Bolzmann
